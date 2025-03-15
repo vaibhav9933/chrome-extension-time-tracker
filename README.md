@@ -35,6 +35,7 @@ Database: MongoDB/MySQL (depending on your choice)
 Analytics: Real-time tracking, categorization of websites as productive/unproductive
 
 *🖼️ OUTPUT :*
+![Image](https://github.com/user-attachments/assets/ae278ba1-f640-4945-93bb-40e111461c0d)
 
 ![Image](https://github.com/user-attachments/assets/bc4da651-4a43-47f0-ac28-7173d907bff6)
 
