@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Usage Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        .report {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .report th, .report td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .report th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        .report tr:hover {
+            background-color: #f1f1f1;
+        }
+        .time {
+            font-weight: bold;
+            color: #ff6347;
+        }
+        .zero-time {
+            color: #ff4500;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Website Usage Report</h1>
+        <table class="report">
+            <thead>
+                <tr>
+                    <th>Website</th>
+                    <th>Time Spent</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>https://www.google.com</td>
+                    <td class="time zero-time">0s</td>
+                </tr>
+                <tr>
+                    <td>https://www.youtube.com</td>
+                    <td class="time zero-time">0s</td>
+                </tr>
+                <tr>
+                    <td>https://www.bing.com/search?pglt=931&q=youtube...</td>
+                    <td class="time">4s</td>
+                </tr>
+                <tr>
+                    <td>https://www.bing.com/search?q=how+can+i+make+file+using+cmd+gitignore...</td>
+                    <td class="time">9s</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="footer">
+            <p>Generated on: <strong>March 15, 2025</strong></p>
+            <p>Stay productive!</p>
+        </div>
+    </div>
+
+</body>
+</html>
