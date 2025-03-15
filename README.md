@@ -36,6 +36,15 @@ Analytics: Real-time tracking, categorization of websites as productive/unproduc
 
 *🖼️ OUTPUT :*
 
+![Image](https://github.com/user-attachments/assets/bc4da651-4a43-47f0-ac28-7173d907bff6)
+
+![Image](https://github.com/user-attachments/assets/3b3b0b86-b365-4313-b59f-7e9f34f69004)
+
+![Image](https://github.com/use
+
+![Image](https://github.com/user-attachments/assets/4a438ce9-c196-4c43-ada1-dcaca8356c25)
+
+r-attachments/assets/db559a3f-3532-4ba2-a56b-332eceab3fdc)
 
 
 👥 Contributors
