@@ -43,6 +43,15 @@ Analytics: Real-time tracking, categorization of websites as productive/unproduc
 
 ![Image](https://github.com/user-attachments/assets/4a438ce9-c196-4c43-ada1-dcaca8356c25)
 
+### 📝 Future Improvements
 
-👥 Contributors
-Vaibhav Rahane
+- **Version Control**: Implement a version control system within the editor to track document changes and allow users to revert to previous versions.
+- **Permission System**: Add user roles and permissions, such as read-only, editor, or admin, to control access to documents.
+- **Offline Mode**: Add functionality that allows users to edit documents offline, syncing changes once the user is back online.
+- **Additional Features**: Implement voice chat or video integration for enhanced team collaboration within the editor.
+
+### 🏆 Conclusion
+
+This **Real-Time Collaborative Document Editor** demonstrates key concepts in **full-stack web development**, including real-time communication, rich-text editing, and cloud storage integration. By combining **Socket.io** for real-time updates, **React.js** for an interactive front-end, and **MongoDB** for persistent storage, the application provides a robust solution for collaborative document editing. The project is a valuable learning experience, providing insight into building scalable web applications with modern technologies. Future improvements will continue to expand its functionality and enhance its performance, making it an even more versatile tool for users.
+
+---
