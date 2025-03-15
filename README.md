@@ -43,8 +43,6 @@ Analytics: Real-time tracking, categorization of websites as productive/unproduc
 
 ![Image](https://github.com/user-attachments/assets/4a438ce9-c196-4c43-ada1-dcaca8356c25)
 
-r-attachments/assets/db559a3f-3532-4ba2-a56b-332eceab3fdc)
-
 
 👥 Contributors
 Vaibhav Rahane
