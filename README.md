@@ -56,3 +56,4 @@ Analytics: Real-time tracking, categorization of websites as productive/unproduc
 This **Real-Time Collaborative Document Editor** demonstrates key concepts in **full-stack web development**, including real-time communication, rich-text editing, and cloud storage integration. By combining **Socket.io** for real-time updates, **React.js** for an interactive front-end, and **MongoDB** for persistent storage, the application provides a robust solution for collaborative document editing. The project is a valuable learning experience, providing insight into building scalable web applications with modern technologies. Future improvements will continue to expand its functionality and enhance its performance, making it an even more versatile tool for users.
 
 ---
+
